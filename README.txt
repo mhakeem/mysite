@@ -6,7 +6,7 @@ You do not need to define or type absolute paths for your folders, files, and da
 The settings.py file incudes a line of code that makes the project portable and work on 
 any machine.
 
-For your connivence, please delete sqlite.db and type syncdb in your command line:
+For your convenience, please delete sqlite.db and type syncdb in your command line:
 python manage.py syncdb
 You will be able to create fresh database and add your super user and data. 
 
